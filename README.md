@@ -4,7 +4,7 @@
 
 Version **1.0.0**.
 
-A Kimi desktop integration for **Fedora and Debian Linux (x86-64)**. Keep the Kimi interface, run its bundled tools, and manage Linux updates from the desktop or terminal. KimiDeck is part of my desktop app series alongside [VibeDeck](https://github.com/OSINTCabal/VibeDeck) and [GrokDeck](https://github.com/OSINTCabal/GrokDeck).
+A Kimi desktop integration for **Fedora and Debian Linux (x86-64)**. Keep the Kimi interface, run its bundled tools, and manage Linux updates from the desktop or terminal. KimiDeck is part of my desktop app series alongside [VibeDeck](https://github.com/OSINTCabal/VibeDeck), [GrokDeck](https://github.com/OSINTCabal/GrokDeck), and [MinimaxDeck](https://github.com/OSINTCabal/MinimaxDeck).
 
 [Install](docs/INSTALL.md) · [Development](docs/DEVELOPMENT.md) · [Verification](docs/VERIFICATION.md)
 

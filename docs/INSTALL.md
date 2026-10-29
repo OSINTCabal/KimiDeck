@@ -28,7 +28,7 @@ Installation and native-runtime checks passed on Fedora 44, Debian 12, and Debia
 
 ## Install and launch
 
-For a private repository, authenticate GitHub through SSH or your Git credential helper before cloning.
+Clone the repository, or use your existing local checkout.
 
 ```bash
 git clone https://github.com/OSINTCabal/KimiDeck.git
