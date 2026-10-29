@@ -1,0 +1,5 @@
+{
+  "uv": { "url": "https://github.com/astral-sh/uv/releases/download/0.13.5/uv-x86_64-unknown-linux-gnu.tar.gz", "sha256": "f68d291c75783122dad58ab77def0e13f3233f358731db5d6d7e8715603b928f" },
+  "python": { "url": "https://github.com/astral-sh/python-build-standalone/releases/download/20261021/cpython-3.12.15%2B20261021-x86_64-unknown-linux-gnu-install_only_stripped.tar.gz", "sha256": "6d7521138fd33afddc1ccd08abb007d9a2829e38117c2576f9efdc0ec73ce772" },
+  "nodePty": { "version": "1.1.0", "file": "assets/pty.node", "note": "built locally from npm node-pty@1.1.0 (registry integrity verified); N-API" }
+}

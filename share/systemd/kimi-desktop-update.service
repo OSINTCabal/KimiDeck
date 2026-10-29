@@ -1,0 +1,9 @@
+[Unit]
+Description=Kimi desktop per-user updater (stages new version; applied on relaunch)
+After=network-online.target
+
+[Service]
+Type=oneshot
+Nice=10
+Environment=KIMI_DESKTOP_ROOT=%h/.local/opt/kimi-desktop
+ExecStart=%h/.local/opt/kimi-desktop/updater/run-update.sh --stage

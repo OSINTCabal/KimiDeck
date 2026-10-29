@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Application
+Name=Kimi
+GenericName=AI Assistant
+Comment=Kimi desktop (Moonshot AI) — Linux build of the Windows app
+Exec=@BIN@ %U
+TryExec=@BIN@
+Icon=kimi-desktop
+Terminal=false
+Categories=Utility;
+Keywords=kimi;moonshot;ai;chat;agent;
+StartupNotify=true
+StartupWMClass=com.moonshot.kimichat
+MimeType=x-scheme-handler/kimi;x-scheme-handler/kimi-work;application/pdf;text/plain;application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;application/vnd.openxmlformats-officedocument.presentationml.presentation;
+Actions=check-updates;
+
+[Desktop Action check-updates]
+Name=Check for updates
+Exec=@BIN@ --check-updates
